@@ -1,3 +1,7 @@
-Nama Project : Aplikasi media player 
-Meneruskan pembuatan aplikasi media player/pemutarmusik pada semester 5 , 
-dengan mengubah tampilan yang lebih menarik dan menambahkan lagu yang awalnya cuma satu lagu lalu ditambah lebih dari satu lagunya.
+Nama Project : Aplikasi musik player 
+Meneruskan pembuatan aplikasi media player/pemutar musik pada semester 5
+
+Perubahan yang ada :
+1. Mengubah tampilan yang lebih menarik dengan mengganti icon tombol play, pause, stop dan image.
+2. Menambah pengatur volume.
+3. Menampilkan durasi lagu. 
